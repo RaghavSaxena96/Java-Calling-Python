@@ -1,4 +1,4 @@
 import os
 import sys
-print(3)
+print("Enter your python code here")
 
